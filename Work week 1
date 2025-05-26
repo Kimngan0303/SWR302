@@ -5,6 +5,21 @@ Define factors - Nguyễn Đại Dương
 Define functions - Phạm Đức Thuận
 Define functions - Phạm Yến Nhi
 Define functions - Trần Thị Kim Ngân
+
 Create Context Diagram - All member
+- Admin : Phạm Yến Nhi
+- Job Seeker : Trần Thị Kim Ngân
+- Employer : Nguyễn Đại Dương
+- Customer Care Staff : Phạm Đức Thuận
+- Guest : Phạm Đức Thuận
+- Mail Service: Bùi Thế Anh
+- Payment Gateway: Bùi Thế Anh
+
 Use Case Diagram - All member
+- Admin : Phạm Đức Thuận
+- Customer Care Staff : Phạm Yến Nhi
+- Employer : Nguyễn Đại Dương
+- Guest : Bùi Thế Anh
+- Job Seeker: Trần Thị Kim Ngân
+
 System Feature Tree - All member
