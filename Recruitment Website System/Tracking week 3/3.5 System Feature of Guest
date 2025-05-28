@@ -1,0 +1,21 @@
+3.5 System Feature of Guest
+
+ 3.5.1 Description
+This feature allows users to interact with the system without the need for registration or login. 
+A guest can access certain public functionalities, such as browsing products, viewing information, or sending basic inquiries. 
+This promotes user convenience and improves accessibility for first-time or casual visitors.
+   
+3.5.2 Stimulus/Response Sequences
+Stimulus: Guest accesses the homepage.
+ Response: The system displays general content available to the public (e.g., product list, company info).
+Stimulus: Guest performs a search for a product or service.
+ Response: The system returns matching results with public details.
+Stimulus: Guest fills out a contact form or inquiry form.
+ Response: The system confirms receipt of the message and optionally sends an acknowledgment email.
+  
+3.5.3 Functional Requirements
+FR-1: The system shall allow guests to access public pages without login.
+FR-2: The system shall enable guests to search for publicly available products/services.
+FR-3: The system shall provide a contact or inquiry form accessible to guests.
+FR-4: The system shall validate and store inquiries submitted by guests.
+FR-5: The system may optionally send an automated email confirmation to the guest after form submission.
