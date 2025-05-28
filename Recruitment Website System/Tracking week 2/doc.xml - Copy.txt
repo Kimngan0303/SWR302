@@ -1,0 +1,7 @@
+2.3 	Operating Environment
+The recruitment website will operate on multiple platforms, including:
+Browsers: Chrome, Safari, Firefox, Edge.
+Operating Systems: Windows, macOS, iOS, Android.
+Hosting: Cloud-based solutions (AWS, Google Cloud, Azure) for high scalability.
+Security Compliance: HTTPS encryption, multi-factor authentication, and GDPR-compliant data handling.
+
