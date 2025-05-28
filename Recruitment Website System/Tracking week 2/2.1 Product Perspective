@@ -1,0 +1,16 @@
+The Job Recruitment Website is a new, standalone web-based platform developed to streamline the recruitment process by connecting job seekers with employers. It is not a continuation or upgrade of a previous system, nor is it part of a larger suite of recruitment tools. Rather, it is an entirely new product aimed at addressing the inefficiencies of traditional hiring methods.
+The system is designed with a modular architecture, which allows for future integration with external services such as:
+Payment gateways (e.g., VNPay, Momo),
+
+
+Third-party job aggregators (e.g., Indeed, VietnamWorks),
+
+
+Chatbot/AI recommendation engines,
+
+
+Email  notification systems.
+
+
+In future releases, it may be extended with a mobile app component but currently functions as an independent web application.
+A context diagram will be provided to illustrate the interaction between the system and its users (job seekers, employers, admins) as well as any external services.
