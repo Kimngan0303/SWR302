@@ -1,0 +1,27 @@
+1.3 Project Scope 
+ Software Description and Purpose
+  The Job Recruitment Website (version 1.0) is a web-based platform designed to streamline the recruitment process by connecting job seekers with employers. Its primary purpose is to facilitate efficient job matching, enabling job seekers to find suitable employment opportunities and employers to identify qualified candidates. The platform provides tools for job seekers to create profiles, upload CVs, and apply for jobs, while offering employers features to post job listings, manage applications, and filter candidates based on specific criteria.
+
+Relation to User and Corporate Goals
+  User Goals:
++ Job Seekers: The platform empowers job seekers to easily search for and apply to jobs that match their skills, experience, and preferences, reducing the time and effort required to find employment.
++ Employers: Employers can efficiently post job openings, access a diverse pool of candidates, and manage the hiring process, saving time and resources compared to traditional recruitment methods.
++ Corporate Goals: The website aligns with the organization’s mission to bridge the gap between talent and opportunity, fostering a competitive job market. It aims to generate revenue through subscription plans for employers, job listing fees, or premium features, while building a reputation as a reliable and user-friendly recruitment platform.
+  
+Business Objectives and Strategies:
+  The Job Recruitment Website supports the following business objectives:
++ Market Penetration: Establish a strong presence in the online recruitment industry by offering a user-centric platform that competes with established job boards.
++ Scalability: Build a scalable system capable of handling increasing user traffic and job listings as the platform grows.
+User Retention: Enhance user experience through intuitive design and value-added features (e.g., job alerts, candidate recommendations) to encourage repeat usage.
++ Data-Driven Insights: Leverage user data (with compliance to privacy regulations like GDPR and Vietnam’s Cybersecurity Law) to provide analytics for employers, such as candidate trends or hiring metrics, as a premium feature.
+
+The platform aligns with the strategic vision of becoming a leading recruitment solution in the region, with plans for future enhancements like AI-driven job matching and mobile app integration.
+
+High-Level Summary of Major Features
+
+The initial release (version 1.0) includes the following major features:
+
++ Job Search and Filtering: Allows job seekers to search for jobs by keywords, location, salary range, and job type.
++ User Profiles: Enables job seekers to create and manage profiles, including CV uploads and personal information.
++ Job Posting : Allows employers to create and publish job listings with required fields
++ Application Management : Provides employers with tools to review, filter, and manage job applications.
