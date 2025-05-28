@@ -1,0 +1,6 @@
+2.5 	Assumptions and Dependencies
+
+  The project assumes the following factors:
++ User Growth – Steady adoption by job seekers and employers over time.
++ Third-Party APIs – Dependence on external services for payments and job recommendations.
++ Data Accuracy – Assumes users provide valid and up-to-date information for job postings.
