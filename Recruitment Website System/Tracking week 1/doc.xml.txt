@@ -1,0 +1,16 @@
+1.4 	References
+
+This section provides a list of relevant references for the development of the Job Recruitment Website project. These references include guides, frameworks, and documentation useful for student-level implementation.
+
+Technical & Development Resources:
+HTML, CSS, and JavaScript Documentation
+Description: Official documentation for web development basics.
+Java EE and Servlet Technology
+Description: Guide for building dynamic Java-based web applications.
+MySQL Database Guide
+Description: Official documentation for database management in MySQL.
+Bootstrap Framework for UI Design
+Description: Frontend framework for building responsive websites.
+Security & Compliance:
+Basic Web Security Guidelines
+Description: Security best practices for web applications.
