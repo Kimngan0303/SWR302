@@ -1,0 +1,10 @@
+1.2 	Document Conventions
+
+This section outlines the standards and typographical conventions used in the documentation for the Job Recruitment Website (version 1.0) to ensure clarity, consistency, and ease of understanding for all intended audiences.
+Typographical Conventions
+The following conventions are used to convey specific meanings and improve readability:
+Bold Text: Used to emphasize key terms, section headings, or critical concepts 
+Monospace Font: Used for code snippets, file names, or specific technical inputs/outputs
+Bullet Points: Used to list features, requirements, or steps in a process for clarity and quick reference.
+Numbered Lists: Used for sequential instructions or prioritized items, such as workflows or implementation steps.
+Annotate: Images and diagrams are annotated.
